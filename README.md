@@ -9,10 +9,6 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/heliton1988/gostack-gobarber-node?color=%2304D361">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
-  </a>
-
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
   <a href="https://github.com/heliton1988/gostack-gobarber-node/stargazers">
@@ -29,7 +25,7 @@
 
 Aplicação para agendamento de serviços de beleza!
 
-### **Ferramentas**
+### **Ferramentas utilizadas**
 
 - Express
 - Sucrase + Nodemon;
