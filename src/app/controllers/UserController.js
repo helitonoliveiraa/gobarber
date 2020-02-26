@@ -53,11 +53,8 @@ class UserController {
     }
 
     const { email, oldPassword } = req.body;
-    console.log('body', email);
 
     const user = await User.findByPk(req.userId);
-
-    console.log('database', user.email);
 
     /**
      * só faz a verificação, se o usuário imformar um email diferente
