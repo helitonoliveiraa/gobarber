@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Iniciando back-end do GoBarber
+  Back-end do GoBarber
 </h3>
 
 <p align="center">
@@ -30,13 +30,14 @@ Aplicação para agendamento de serviços de beleza!
 - Express
 - Sucrase + Nodemon;
 - ESLint + Prettier + EditorConfig;
-- Sequelize (Utilize PostgreSQL ou MySQL);
+- Sequelize + PostgreSQL;
+- Mongodb + mongoose + Redid;
 - JWT E YUP
 
 ### **Funcionalidades**
 
 O usuário paderá se autenticar na aplicação sendo ele um usuário comum ou um prestador de serviço(provider)
-O usuário da aplicação também pode realizar auteração em seu cadastro na aplicação, como noma, email e senha
+O usuário da aplicação também pode realizar auteração em seu cadastro na aplicação, como nome, email e senha
 
 
 ## :memo: Licença
