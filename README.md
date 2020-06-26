@@ -28,11 +28,17 @@ Aplicação para agendamento de serviços de beleza!
 ### **Ferramentas utilizadas**
 
 - Express
-- Sucrase + Nodemon;
-- ESLint + Prettier + EditorConfig;
-- Sequelize + PostgreSQL;
-- Mongodb + mongoose + Redid;
-- JWT E YUP
+- Sucrase
+- Nodemon
+- ESLint
+- Prettier
+- EditorConfig
+- Sequelize + PostgreSQL
+- Mongodb
+- mongoose
+- Redid
+- JWT
+- YUP
 
 ### **Funcionalidades**
 
