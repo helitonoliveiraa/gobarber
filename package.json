@@ -9,10 +9,12 @@
     "dev:debug": "nodemon --inspect src/server.js"
   },
   "dependencies": {
+    "@sentry/node": "5.18.1",
     "bcryptjs": "^2.4.3",
     "bee-queue": "^1.2.3",
     "date-fns": "^2.0.0-beta.5",
     "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
     "express-handlebars": "^4.0.4",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.20",
@@ -23,6 +25,7 @@
     "pg": "^8.2.1",
     "pg-hstore": "^2.3.3",
     "sequelize": "^5.21.13",
+    "youch": "^2.0.10",
     "yup": "^0.29.1"
   },
   "devDependencies": {
