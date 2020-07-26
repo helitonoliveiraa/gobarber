@@ -36,7 +36,7 @@ Aplicação para agendamento de serviços de beleza!
 - Sequelize + PostgreSQL
 - Mongodb
 - mongoose
-- Redid
+- Redis
 - JWT
 - YUP
 
