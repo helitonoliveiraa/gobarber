@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img alt="gobarber" title="GoBarber" src=".github/logo.png" width="300px" />
+  <img alt="gobarber" title="GoBarber" src=".github/logo.png" width="100px" />
 </h1>
 
 <h3 align="center">
-  Back-end do GoBarber
+  GoBarber Back-end
 </h3>
 
 <p align="center">
