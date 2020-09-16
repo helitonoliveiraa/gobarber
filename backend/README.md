@@ -19,7 +19,6 @@
 <p align="center">
   <a href="#rocket-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-ferramentas-utilizadas">Ferramentas utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#dizzy-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
 
@@ -43,14 +42,6 @@ Este é back-end da aplicação desenvolvido em `Nodejs`
 - [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
-
-## :dizzy: Funcionalidades
-
-O usuário paderá se autenticar na aplicação sendo ele um usuário comum ou um prestador de serviço(provider).<br />
-Após estar logado na aplicação, o provider pode verificar todos os seus agenamentos do dia ou uma data expecífica.<br />
-Sempre que um usuário(cliente) fizer um novo agendamento, o provider será notificado, tanto pela aplicaçaão web como também atravez do seus e-mail.
-
-O usuário(não provedor) da aplicação também pode realizar auteração em seu perfil na aplicação, como nome, email e senha, também é possível cancelar agendamentos.
 
 ## :arrow_down: Como utilizar
 
