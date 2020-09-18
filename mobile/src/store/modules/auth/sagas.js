@@ -19,7 +19,7 @@ export function* signIn({payload}) {
     const {token, user} = response.data;
 
     if (user.provider) {
-      Alert.alert('Error no login', 'Usuário não é um prestador de serviços!');
+      Alert.alert('Error no login', 'Usuário é um prestador de serviços!');
       return;
     }
 
