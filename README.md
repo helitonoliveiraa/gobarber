@@ -93,3 +93,7 @@ Para informações de como configurar e rodar o projeto mobile [Clique aqui](htt
 
 Para informações de como configurar e rodar o projeto mobile [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/mobile) :iphone:
 <br /><br />
+
+<br /><br />
+
+<p align="center">Feito com 💚 by <a href="https://www.linkedin.com/in/helitonoliveira/" target="_blank">Héliton Oliveira</a></p>
