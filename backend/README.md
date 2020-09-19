@@ -73,6 +73,6 @@ $ docker run --name mongobarber -p 27017:27017 -d -t mongo
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/heliton1988/gobarber/blob/master/LICENSE) para mais detalhes.
 
 

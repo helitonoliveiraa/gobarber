@@ -23,7 +23,7 @@
   <a href="#rocket-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#dizzy-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#arrowdown-como-clonar-o-projeto">Baixe o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#pagefacingup-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -93,6 +93,9 @@ Para informações de como configurar e rodar o projeto mobile [Clique aqui](htt
 
 Para informações de como configurar e rodar o projeto mobile [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/mobile) :iphone:
 <br /><br />
+
+## :page_facing_up: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/heliton1988/gobarber/blob/master/LICENSE) para mais detalhes.
 
 <br /><br />
 
