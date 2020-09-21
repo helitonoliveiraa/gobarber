@@ -39,11 +39,11 @@ Esta aplicação foi desenvolvida em paralelo com as aulas do [Bootcamp GoStack 
 
 ## :dizzy: Funcionalidades
 
-O usuário paderá se autenticar na aplicação sendo ele um usuário comum ou um prestador de serviço(provider).<br />
+O usuário poderá se autenticar na aplicação, sendo ele um usuário comum ou um prestador de serviço(provider).<br />
 Após estar logado na aplicação, o provider pode verificar todos os seus agenamentos do dia ou uma data expecífica.<br />
 Sempre que um usuário(cliente) fizer um novo agendamento, o provider será notificado, tanto pela aplicaçaão web como também atravez do seus e-mail.
 
-O usuário(não provedor) da aplicação também pode realizar auteração em seu perfil na aplicação, como nome, email e senha, também é possível cancelar agendamentos.
+O usuário(não provedor) da aplicação também pode realizar alteração em seu perfil na aplicação, como nome, email e senha, também é possível cancelar agendamentos.
 
 ## :arrow_down: Como clonar o projeto
 
