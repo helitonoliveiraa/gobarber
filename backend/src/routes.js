@@ -14,10 +14,10 @@ import AvailableController from './app/controllers/AvailableController';
 /**
  * Validators
  */
-import validateUserStore from './validators/UserStore';
-import validateUserUpdate from './validators/UserUpdate';
-import validateSessionStore from './validators/SessionStore';
-import validateAppointmentStore from './validators/AppointmentStore';
+import validateUserStore from './app/validators/UserStore';
+import validateUserUpdate from './app/validators/UserUpdate';
+import validateSessionStore from './app/validators/SessionStore';
+import validateAppointmentStore from './app/validators/AppointmentStore';
 
 import authMiddleware from './app/middlewares/auth';
 
