@@ -88,7 +88,7 @@ Você pode seguir o passo a passo no link a seguir...
 [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/backend) :rewind:
 <br /><br />
 
-Para informações de como configurar e rodar o projeto mobile [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/web) 💻
+Para informações de como configurar e rodar o projeto web [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/web) 💻
 <br /><br />
 
 Para informações de como configurar e rodar o projeto mobile [Clique aqui](https://github.com/heliton1988/gobarber/tree/master/mobile) :iphone:
