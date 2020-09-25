@@ -37,6 +37,8 @@ Também é possível gerenciar perfis tanto dos prestadores de serviços como ta
 
 Esta aplicação foi desenvolvida em paralelo com as aulas do [Bootcamp GoStack Rocketseat](https://rocketseat.com.br/), onde o intuito foi praticar e massificar os conteúdos aprendidos durante o curso.
 
+📹 [Vídeo demo do projeto](https://www.youtube.com/watch?v=cQO3Ke6vB4s&t=1s) 📹
+
 ## :dizzy: Funcionalidades
 
 O usuário paderá se autenticar na aplicação sendo ele um usuário comum ou um prestador de serviço(provider).<br />
