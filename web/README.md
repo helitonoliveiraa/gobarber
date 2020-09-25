@@ -18,7 +18,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23205072">
 
   <a href="https://github.com/heliton1988/gobarber/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/heliton1988/gobarber-web?style=social">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/heliton1988/gobarber?style=social">
   </a>
 </p>
 
