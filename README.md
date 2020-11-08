@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/heliton1988/gobarber?color=%23205072">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helitonoliveiraa/gobarber?color=%23205072">
 
   <a href="https://www.linkedin.com/in/helitonoliveira/">
     <img alt="Made by Héliton Oliveira" src="https://img.shields.io/badge/made%20by-Héliton Oliveira-%23205072">
@@ -14,8 +14,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%23205072">
 
-  <a href="https://github.com/heliton1988/gobarber/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/heliton1988/gobarber?style=social">
+  <a href="https://github.com/helitonoliveiraa/gobarber/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/helitonoliveiraa/gobarber?style=social">
   </a>
 </p>
 
